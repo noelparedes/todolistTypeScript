@@ -1,0 +1,26 @@
+{
+  "name": "todolisttypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./node_modules/http-server/bin/http-server -p 8091"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noelparedes/todolistTypeScript.git"
+  },
+  "author": "Noel Paredes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noelparedes/todolistTypeScript/issues"
+  },
+  "homepage": "https://github.com/noelparedes/todolistTypeScript#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "systemjs": "^6.10.3"
+  },
+  "devDependencies": {
+    "http-server": "^13.0.2"
+  }
+}
